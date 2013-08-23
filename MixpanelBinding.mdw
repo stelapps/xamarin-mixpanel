@@ -1,0 +1,6 @@
+<WorkspaceItem ctype="Workspace">
+  <Items>
+    <Item>MixpanelAPI/MixpanelAPI.sln</Item>
+    <Item>MixpanelTest/MixpanelTest.sln</Item>
+  </Items>
+</WorkspaceItem>

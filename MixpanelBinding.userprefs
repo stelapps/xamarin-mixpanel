@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MixpanelAPI" expanded="True">
+            <Node name="MixpanelAPI" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ApiDefinitions.cs" selected="True" />
+              <Node name="libMixpanel.a" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="MixpanelTest" expanded="True">
+            <Node name="MixpanelTest" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
