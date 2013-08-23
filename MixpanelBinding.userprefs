@@ -1,19 +1,20 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MixpanelTest/MixpanelTest/AppDelegate.cs">
+    <Files>
+      <File FileName="MixpanelTest/MixpanelTest/MixpanelTestViewController.cs" Line="43" Column="4" />
+      <File FileName="MixpanelTest/MixpanelTest/AppDelegate.cs" Line="10" Column="21" />
+      <File FileName="MixpanelAPI/MixpanelAPI/ApiDefinitions.cs" Line="20" Column="3" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="MixpanelAPI" expanded="True">
-            <Node name="MixpanelAPI" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="ApiDefinitions.cs" selected="True" />
-              <Node name="libMixpanel.a" expanded="True" />
-            </Node>
+            <Node name="MixpanelAPI" expanded="True" />
           </Node>
           <Node name="MixpanelTest" expanded="True">
             <Node name="MixpanelTest" expanded="True">
-              <Node name="References" expanded="True" />
+              <Node name="References" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
