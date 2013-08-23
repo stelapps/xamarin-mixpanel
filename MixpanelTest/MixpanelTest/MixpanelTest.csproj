@@ -81,7 +81,7 @@
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
     <Reference Include="MixpanelAPI">
-      <HintPath>..\..\MixpanelAPI\MixpanelAPI\obj\Debug\MixpanelAPI.dll</HintPath>
+      <HintPath>lib\MixpanelAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
